@@ -1,0 +1,38 @@
+{
+  "name": "concord",
+  "version": "1.0.0",
+  "description": "Concord is an AI Discord bot for CVE polling, playing music, and more",
+  "main": "app.js",
+  "dependencies": {
+    "discord.js": "^11.3.2",
+    "ffmpeg-binaries": "^3.2.2-3",
+    "fluent-ffmpeg": "^2.1.2",
+    "node-witai-speech": "^1.0.2",
+    "node-opus": "^0.3.0",
+    "opusscript": "^0.0.6",
+    "underscore": "^1.9.0",
+    "ytdl-core": "^0.20.4",
+    "youtube-search": "^1.1.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Syncthetic/concord.git"
+  },
+  "keywords": [
+    "discord",
+    "concord",
+    "opus",
+    "ai",
+    "witai"
+  ],
+  "author": "Justin Bess",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Syncthetic/concord/issues"
+  },
+  "homepage": "https://github.com/Syncthetic/concord#readme"
+}

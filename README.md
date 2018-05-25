@@ -19,10 +19,11 @@ Concord is an AI Discord bot for CVE polling, playing music, and more.
 - opusscript
 - ytdl-core
 - youtube-search
+- node-opus
 
 ## System Requirements
 - [Node.js](https://nodejs.org/en/)
-- [espeak](http://espeak.sourceforge.net/) (optional, allows teh bot to speak)
+- [espeak](http://espeak.sourceforge.net/) (optional, allows the bot to speak)
   - Can be installed on linux systems with `apt-get install espeak -y`
 - [ffmpeg](https://www.ffmpeg.org/download.html)
   - The above link can be used to download for Mac and Windows, for Linux systems, you can use `apt-get install ffmpeg -y`
